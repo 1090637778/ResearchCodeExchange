@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to this project! This GitHub repository is specifically created for communication with the author of [Paper Title]. My goal is to request the related source code to better understand and apply the research outcomes presented in the paper.
+Welcome to this project! This GitHub repository is specifically created for communication with the author of This Paper. My goal is to request the related source code to better understand and apply the research outcomes presented in the paper.
 
 ## How to Use
 
